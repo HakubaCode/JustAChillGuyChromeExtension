@@ -2,7 +2,7 @@
 
 Privacy Policy for JustAChillGuy Chrome Extension
 
-Last updated: [Current Date]
+Last updated: 11.28.2024
 
 This extension does not collect, store, or transmit any user data. It simply replaces YouTube thumbnail images with a local image file that is included within the extension package.
 
@@ -14,4 +14,4 @@ This extension does not collect, store, or transmit any user data. It simply rep
 
 The extension only performs local image replacement on YouTube pages and does not interact with any external servers or services.
 
-For questions about this privacy policy, please contact [your contact email].
+For questions about this privacy policy, please contact hkbgfx@gmail.com.
